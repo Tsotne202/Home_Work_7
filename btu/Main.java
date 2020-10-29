@@ -1,4 +1,4 @@
-package BTU;
+package btu;
 
 import Interface.Interface1;
 import Class.Class1;
